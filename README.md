@@ -22,14 +22,11 @@ Interactive UI: Hover effects and interactive elements provide a dynamic feel.
 
 This project was built using modern web technologies to ensure performance and maintainability.
 
-HTML5: For the structure and content of the website.
+HTML: For the structure and content of the website.
 
 CSS: For the utility-first styling and responsive design.
 
 JavaScript : For interactivity, smooth scrolling, and scroll-triggered animations.
-
-Getting Started
-
 
 **Deployment**
 
