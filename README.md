@@ -31,5 +31,3 @@ JavaScript : For interactivity, smooth scrolling, and scroll-triggered animation
 **Deployment**
 
 This portfolio is deployed and hosted on Vercel. The platform's seamless integration with GitHub allows for continuous deployment, meaning any new commits pushed to the main branch will automatically trigger a new build and update the live site.
-
--portfolio <!-- Replace with your repo link if different -->
